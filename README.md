@@ -6,12 +6,12 @@
   python 2.7+
   
 # Packages
-    sklearn
-    matplotlib
-    seaborn
-    numpy
-    scipy
-  
+  - sklearn
+  - matplotlib
+  - seaborn
+  - numpy
+  - scipy
+
   All of these packages comes bundled in Anaconda distribution. https://www.anaconda.com/download/
   I would suggest to install Anaconda 4.4.0 with Python 3.6 version. Latest Deep Learning Libraries
   are built on top of python 3.6
