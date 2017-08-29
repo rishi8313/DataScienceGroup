@@ -2,10 +2,10 @@
 
   Recorded Sessions are available at https://www.youtube.com/playlist?list=PLrhkCEcMqRBiEBNV7DT0u-LRTGagh2J0R
   
-#Requirements
+# Requirements
   python 2.7+
   
-#Packages
+# Packages
   sklearn
   matplotlib
   seaborn
@@ -16,7 +16,7 @@
   I would suggest to install Anaconda 4.4.0 with Python 3.6 version. Latest Deep Learning Libraries
   are built on top of python 3.6
 
-#Models
+# Models
   1) Regression
   2) Classification - Most of the machine learning problems are classification task
       Ex - Spam Detection
